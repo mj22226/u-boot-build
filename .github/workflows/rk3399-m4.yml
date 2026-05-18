@@ -35,7 +35,6 @@ jobs:
               "name": "rk3399-nanopi-m4v2",
               "config": "nanopi-m4v2-rk3399_defconfig",
             },
-            },
             {
               "name": "rk3399-rock-pi-4",
               "config": "rock-pi-4-rk3399_defconfig",
