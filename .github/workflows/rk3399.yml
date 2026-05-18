@@ -64,8 +64,8 @@ jobs:
               "config": "rock-4se-rk3399_defconfig",
             },
             {
-              "name": "rk3399-rock960",
-              "config": "rock960-rk3399_defconfig",
+              "name": "rk3399-roc-pc",
+              "config": "roc-pc-rk3399_defconfig",
             },
             {
               "name": "rk3399-rock-pi-4",
