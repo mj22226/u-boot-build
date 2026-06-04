@@ -101,7 +101,7 @@ jobs:
       - name: Checkout u-boot - ${{ inputs.uboot_ref }}
         uses: actions/checkout@main
         with:
-          repository: Kwiboo/u-boot-rockchip
+          repository: mj22226/u-boot
           ref: ${{ inputs.uboot_ref }}
           path: u-boot
 
